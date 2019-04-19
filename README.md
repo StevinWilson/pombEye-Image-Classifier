@@ -6,6 +6,8 @@ Prerequisites and installation instruction:
 
 pombEye can be accessed using the python source code (.py extension) through Mac/ Linux Terminal.
 
+Since the .h5 weights file is more than 300 Mb , Github does not automatically include the file when the repo is downloaded as a zip file. Instead, download the file and place it in the same folder as the .py file.
+
 
 The following packages are needed in order to run pombEye:
 
