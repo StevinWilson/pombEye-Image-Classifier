@@ -7,17 +7,21 @@ Prerequisites and installation instruction:
 pombEye can be accessed using the python source code (.py extension) through Mac/ Linux Terminal
 
 1) Numpy
+
 pip install numpy
 
 2) OpenCV
+
 pip install opencv-python
 
 3)Tensorflow
+
 pip install tensorflow 
 
 (For machines with compatible GPU, visit the Tensorlfow webpage)
 
 4) Keras
+
 pip install Keras
 
 Instructions:
