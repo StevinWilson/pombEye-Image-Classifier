@@ -40,6 +40,8 @@ The top hit for the prediction is listed on top along with a confidence score ra
 
 To exit the program, type 'exit' when the program asks for input filepath.
 
+A sample screenshot of the procedure is at https://github.com/StevinWilson/pombEye-Image-Classifier/blob/master/screenshot_usage_example.png
+
 Planned features:
 
 Ability to classify S.cerevisiae (budding yeast) microscopy images.
