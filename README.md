@@ -1,6 +1,6 @@
-pombEye : A protein localisation classifier for Schizosaccharomyces pombe microscopy images
+pombEye : A subcellular localisation classifier for Schizosaccharomyces pombe microscopy images
 
-pombEye is an image classifier that can be used to predict subcellular localisation (eg. fluorescent tagged proteins) within fission yeast (S.pombe, S.japonicus, S.octosporus and S.cryophilus ) species. pombEye runs on an image classifier built using Keras for Python3 with Tensorflow as the backend (V166 base fine tuned with pombe microscopy images). For training and validation, S.pombe fluorescent microscope images from the Orfeome project were used (1).
+pombEye is an image classifier that can be used to predict subcellular localisation (eg. GFP/mCherry/mCitrine-tagged proteins) within fission yeast (S.pombe, S.japonicus, S.octosporus and S.cryophilus ) species. pombEye runs on an image classifier built using Keras for Python3 with Tensorflow as the backend (V166 base fine tuned with pombe microscopy images). For training and validation, S.pombe fluorescent microscope images from the Orfeome project were used (1).
 
 Prerequisites and installation instruction:
 
