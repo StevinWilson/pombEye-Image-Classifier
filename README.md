@@ -4,7 +4,10 @@ pombEye is an image classifier that can be used to predict subcellular localisat
 
 Prerequisites and installation instruction:
 
-pombEye can be accessed using the python source code (.py extension) through Mac/ Linux Terminal
+pombEye can be accessed using the python source code (.py extension) through Mac/ Linux Terminal.
+
+
+The following packages are needed in order to run pombEye:
 
 1) Numpy
 
@@ -23,6 +26,8 @@ pip install tensorflow
 4) Keras
 
 pip install Keras
+
+The above-mentioned packages can also be installed using conda.
 
 Instructions:
 
