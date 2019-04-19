@@ -38,7 +38,7 @@ It is strongly recommended to use .jpg format for input images instead of .tiff 
 
 The top hit for the prediction is listed on top along with a confidence score ranging between 0 and 100.
 
-To exit the program, type 'exit' when the program asks for input filepath.
+To exit the program, type 'exit' when the program asks for the path to the input file.
 
 A sample screenshot of the procedure is at https://github.com/StevinWilson/pombEye-Image-Classifier/blob/master/screenshot_usage_example.png
 
