@@ -1,33 +1,42 @@
 pombEye : A protein localisation classifier for Schizosaccharomyces pombe microscopy images
 
-pombEye is an image classifier that can be used to predict subcellular localisation (eg. fluorescent tagged proteins) within fission yeast (S.pombe, S.japonicus, S.octosporus and S.cryophilus ) species. pombEye runs on an image classifier built using Keras for Python with Tensorflow as the backend (V166 base fine tuned with pombe microscopy images). For training and validation, S.pombe fluorescent microscope images from the Orfeome project were used (1).
+pombEye is an image classifier that can be used to predict subcellular localisation (eg. fluorescent tagged proteins) within fission yeast (S.pombe, S.japonicus, S.octosporus and S.cryophilus ) species. pombEye runs on an image classifier built using Keras for Python3 with Tensorflow as the backend (V166 base fine tuned with pombe microscopy images). For training and validation, S.pombe fluorescent microscope images from the Orfeome project were used (1).
 
 Prerequisites and installation instruction:
 
-pombEye can be accessed using the python source code (.py extension) through Mac/ Linux Terminal.
+pombEye can be accessed using the python3 source code (.py extension) through Mac/ Linux Terminal.
 
 Since the .h5 weights file is more than 300 Mb , Github does not automatically include the file when the repo is downloaded as a zip file. Instead, download the .h5 file separately and place it in the same folder as the .py file.
 
 
 The following packages are needed in order to run pombEye:
+1) pip
 
-1) Numpy
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3 get-pip.py
+
+
+2) Numpy
 
 pip install numpy
 
-2) OpenCV
+
+3) OpenCV
 
 pip install opencv-python
 
-3)Tensorflow
+
+4)Tensorflow
 
 pip install tensorflow 
 
 (For machines with compatible GPU, visit the Tensorlfow webpage)
 
-4) Keras
+
+5) Keras
 
 pip install Keras
+
 
 The above-mentioned packages can also be installed using conda.
 
