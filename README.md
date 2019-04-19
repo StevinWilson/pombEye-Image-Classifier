@@ -32,9 +32,9 @@ python path_to_the_file/pombEye_V1.py
 
 2) The program loads Tensorflow and compiles the weights file (.h5).
 
-3)The program asks for the filepath to the input image. The prompt accepts keyboard input. On macOS, drag the input file icon to the terminal and the filepath is pasted.
+3)The program asks for the path to the input image. The prompt accepts keyboard input. On macOS, drag the input file icon to the terminal and the path is automatically pasted.
 
-It is strongly recommended to input .jpg format input images instead of .tiff . The program can handle color and grayscale images (Images are converted to 8-bit images prior to feeding into the model).
+It is strongly recommended to use .jpg format for input images instead of .tiff . The program can handle color and grayscale images (Images are converted to 8-bit images prior to feeding into the model).
 
 The top hit for the prediction is listed on top along with a confidence score ranging between 0 and 100.
 
