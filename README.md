@@ -46,6 +46,8 @@ Instructions:
 1) Open terminal and run the python source code using the following command
 
 python path_to_the_file/pombEye_V1.py
+or
+python3 path_to_the_file/pombEye_V1.py
 
 2) The program loads Tensorflow and compiles the weights file (.h5).
 
