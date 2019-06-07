@@ -38,6 +38,10 @@ pip install tensorflow
 
 pip install Keras
 
+6) Pillow
+
+pip install Pillow
+
 
 The above-mentioned packages can also be installed using conda.
 
