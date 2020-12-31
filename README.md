@@ -79,6 +79,8 @@ To exit the program, type 'exit' when the program asks for the path to the input
 
 Ability to classify *S. cerevisiae* (budding yeast) microscopy images.
 
+pombEye IS INTENDED FOR NON-COMMERCIAL AND EDUCATIONAL USE ONLY. PLEASE DO NOT USE FOR RESEARCH AND DIAGNOSTICS, AND COMMERCIAL PURPOSES.
+
 
 I welcome feedback, suggestions, contributions and input. To report bugs, please open an issue at [issues@pombEye](https://github.com/stevin-wilson/pombEye-Image-Classifier/issues)
 
