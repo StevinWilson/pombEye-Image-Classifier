@@ -12,8 +12,8 @@ pombEye can be accessed using the python3 source code (.py extension) through Ma
 
 2. Download the trained models from the following links into the folder with github repo clone
 
-        [pombEye V2-large](https://drive.google.com/file/d/1SB6clrB46lsUR5UgjvMTXQmjg4w43Y3k/view?usp=sharing)
-        [pombEye V2-small](https://drive.google.com/file/d/1PiJlrQPXWsPGwlY_v17c9KnBjsxXx6wK/view?usp=sharing)
+    [pombEye V2-large](https://drive.google.com/file/d/1SB6clrB46lsUR5UgjvMTXQmjg4w43Y3k/view?usp=sharing)
+    [pombEye V2-small](https://drive.google.com/file/d/1PiJlrQPXWsPGwlY_v17c9KnBjsxXx6wK/view?usp=sharing)
 
 
 The following packages are needed in order to run pombEye:
