@@ -61,7 +61,7 @@ To exit the program, type 'exit' when the program asks for the path to the input
 
 #### sample screenshot
 
-[example use](Sample_Images/sample_usage.png)
+![example use](Sample_Images/sample_usage.png)
 
 
 ## Metrics on Test Data
