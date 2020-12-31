@@ -59,7 +59,9 @@ The top hit for the prediction is listed on top along with a confidence score ra
 
 To exit the program, type 'exit' when the program asks for the path to the input file.
 
-A sample screenshot of the procedure is at this [link](https://github.com/StevinWilson/pombEye-Image-Classifier/blob/master/screenshot_usage_example.png)
+#### sample screenshot
+
+[example use](Sample_Images/sample_usage.png)
 
 
 ## Metrics on Test Data
