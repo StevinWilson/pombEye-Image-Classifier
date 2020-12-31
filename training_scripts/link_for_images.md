@@ -1,0 +1,3 @@
+Images used for training, validation and test were resized and 8-bit version of the images from Matsuyama, A., Arai, R., Yashiroda, Y., Shirai, A., Kamata, A., Sekido, S., … Yoshida, M. (2006). ORFeome cloning and global analysis of protein localization in the fission yeast Schizosaccharomyces pombe. Nature Biotechnology, 24(7), 841–847. https://doi.org/10.1038/nbt1222
+
+Images used for the training process can be obtained from [Google Drive](https://drive.google.com/drive/folders/1sa8R1Pl--NNPRCmJU_InzY1Oi2xt3DCt?usp=sharing)
