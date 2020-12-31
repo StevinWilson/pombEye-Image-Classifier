@@ -80,7 +80,7 @@ To exit the program, type 'exit' when the program asks for the path to the input
 Ability to classify *S. cerevisiae* (budding yeast) microscopy images.
 
 
-I welcome feedback, suggestions, contributions and input. Please contact me at wilson.3273@osu.edu.
+I welcome feedback, suggestions, contributions and input. To report bugs, please open an issue at [issues@pombEye](https://github.com/stevin-wilson/pombEye-Image-Classifier/issues)
 
 
 ## References:
